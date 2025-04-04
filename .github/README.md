@@ -40,7 +40,7 @@
   </a>  </h2>
   ━━━━━━━━━━━━━━━━━━━━
 <h2>
-    <a href="https://app.koyeb.com/deploy?name=mukeshrobot&repository=Noob-mukesh%2Fmukeshrobot&branch=main&instance_type=free&ports=8000%3Btcp">
+    <a href="https://app.koyeb.com/deploy?name=https://github.com/NAWAB-MUSIC/NAWAB-MUSIC-ROBOT">
         <img src="https://www.koyeb.com/static/images/deploy/button.svg" alt="Deploy to Koyeb">
     </a>
 </h2>
